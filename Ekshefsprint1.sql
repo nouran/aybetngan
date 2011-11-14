@@ -1,7 +1,8 @@
 /*==============================================================*/
 /* DBMS name:      MySQL 5.0                                    */
-/* Created on:     11/14/2011 3:55:57 PM                        */
+/* Created on:     11/14/2011 3:55:57 PM       by nouran         */
 /*==============================================================*/
+
 drop table if exists SUBSRIBED_TO;
 
 drop table if exists STUDIED_IN;
